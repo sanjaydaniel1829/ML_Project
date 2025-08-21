@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sanja/Ml_Project/mlruns/0/69ad8974db334f5fa3d774373857533c/artifacts
+end_time: 1755776488387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69ad8974db334f5fa3d774373857533c
+run_name: stately-sponge-2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755776485111
+status: 3
+tags: []
+user_id: root
