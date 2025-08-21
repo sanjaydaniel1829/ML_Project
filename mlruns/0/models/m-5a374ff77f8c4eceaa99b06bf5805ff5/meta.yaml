@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/sanja/Ml_Project/mlruns/0/models/m-5a374ff77f8c4eceaa99b06bf5805ff5/artifacts
+creation_timestamp: 1755775679466
+experiment_id: '0'
+last_updated_timestamp: 1755775683349
+model_id: m-5a374ff77f8c4eceaa99b06bf5805ff5
+model_type: null
+name: model
+source_run_id: 11ab5a65474e4d03bb24f1f11cdbffc9
+status: 2
+status_message: null
